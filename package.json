@@ -18,7 +18,7 @@
   "author": "developerekene",
   "license": "ISC",
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.26.0",
     "@pnpm/tsconfig": "^2.0.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
